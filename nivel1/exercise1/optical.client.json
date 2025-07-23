@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "68809f0f346201d7960f1fcc"
+  },
+  "name": "Pepe Pérez",
+  "address": "Gaudi, 123",
+  "phone": "+34 600 123 456",
+  "email": "pepe.perez@example.com",
+  "register_date": "2023-01-15T10:00:00Z",
+  "last_shoppings": [
+    {
+      "item": "Rayban",
+      "details": {
+        "graduation": {
+          "L": 2.3,
+          "R": 2
+        },
+        "glass_color": {
+          "L": null,
+          "R": null
+        },
+        "frame_type": "Metallic",
+        "price": 127
+      }
+    }
+  ]
+}]
