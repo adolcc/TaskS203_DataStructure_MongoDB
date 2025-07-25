@@ -1,0 +1,24 @@
+[{
+  "_id": "507f1f77bcf86cd799439011",
+  "brand": "Google",
+  "frame": "Metallic",
+  "provider": "Googles Associated SL",
+  "price": {
+    "amount": 107.75,
+    "currency": "EUR"
+  },
+  "customer": {
+    "name": "Pepe Perez",
+    "address": {
+      "street": "Carrer de Gaudí, 25",
+      "city": "Barcelona",
+      "postalCode": "08025",
+      "country": "España"
+    }
+  },
+  "specifications": {
+    "material": "Metallic",
+    "color": "Black",
+    "size": "Medium"
+  }
+}]
