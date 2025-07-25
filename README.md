@@ -29,7 +29,7 @@ MongoDB Compass, visual Studio Code, GitHub Desktop.
 
 **Execution**
 
-Open in MongoDB Compass or favorite software for js. lenguaje. 
+Open in MongoDB Compass, terminal or favorite software for js. lenguaje. 
 
 ---
 
