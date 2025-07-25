@@ -17,7 +17,7 @@ Scalability and Flexibility: Designing schemas that can adapt to evolving busine
 
 **I completed this exercise with the help of:**
 
-Classmates YouTube tutorials Google searches Owen (AI assistant).
+Classmates, YouTube tutorial, Google searches and gemini (AI assistant).
 
 ---
 
