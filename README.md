@@ -1,4 +1,5 @@
 **MongoDB Exercises**
+
 This repository contains solutions to MongoDB database design exercises, focusing on practical schema modeling for various business scenarios. The exercises are designed to enhance understanding of NoSQL database principles, particularly within a document-oriented database like MongoDB.
 
 Learning Objectives
