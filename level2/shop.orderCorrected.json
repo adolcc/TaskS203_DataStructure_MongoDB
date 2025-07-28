@@ -1,0 +1,62 @@
+[{
+  "_id": {
+    "$oid": "6887d468b3350b50212504b1"
+  },
+  "orderNumber": "123",
+  "orderStatus": "Confirmed",
+  "client": {
+    "id": "1234",
+    "name": "Person, True"
+  },
+  "delivery_details": {
+    "street": "Right Street",
+    "number": "42b",
+    "floor": "31",
+    "contact_number": "62819321",
+    "note": "We don't have elevator!"
+  },
+  "items": [
+    {
+      "name": "Pizza Margarita",
+      "dough_type": "Thin dought",
+      "quantity": 1,
+      "unit_price": 8,
+      "total_item_price": 8
+    },
+    {
+      "name": "Pizza BBQ",
+      "dough_type": "Normal dought",
+      "quantity": 2,
+      "unit_price": 12,
+      "total_item_price": 24
+    },
+    {
+      "name": "Cheese Hamgurguer",
+      "quantity": 2,
+      "unit_price": 6,
+      "total_item_price": 12
+    },
+    {
+      "name": "Double Humburguer",
+      "quantity": 1,
+      "unit_price": 8,
+      "total_item_price": 8
+    },
+    {
+      "name": "Water",
+      "quantity": 2,
+      "unit_price": 2,
+      "total_item_price": 4
+    },
+    {
+      "name": "Coke",
+      "quantity": 2,
+      "unit_price": 5,
+      "total_item_price": 5
+    }
+  ],
+  "totalAmount": 61,
+  "paymentStatus": "Paid",
+  "deliveryStatus": "Delivered",
+  "orderDate": "2025-07-28T15:30:00Z"
+}]
